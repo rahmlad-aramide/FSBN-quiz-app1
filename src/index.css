@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #f5f5f5;
+}
+.button {
+    background-color: #111;
+    color: #fff;
+    font-weight: 400;
+    border: 2px solid #fff;
+    /* margin: 0 auto; */
+    margin-bottom: 1rem;
+    padding: .5rem 2rem;
+    display: flex;
+    border-radius: .5rem;
+}
+.button:hover{
+    background-color: #fff;
+    color: #111;
+    border: 2px solid #111;
+}
+/* .quiz-screen .question */
+ .progress-bar{
+    width: 0%;
+    height: 5px;
+}
+
+/* .quiz-screen .question */
+ .progress-bar.active {
+    animation: progress 10s linear;
+}
+@keyframes progress {
+    0% {
+        width: 0%;
+        background-color: #555;
+    }
+    79% {
+        width: 79%;
+        background-color: #555;
+    }
+    80% {
+        width: 80%;
+        background-color: orangered;
+    }
+    100% {
+        width: 100%;
+        background-color: orangered;
+    }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Who is the current Minister for Education in Nigeria?",
+        "options": ["Babatunde Fashola", "Chris Ngige", "Lai Mohammed", "Adamu Adamu"],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "'OS' Abbreviation usually means?",
+        "options": ["Order of Significance", "Open Software", "Operating System", "None of these"],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "What is the capital city of Nigeria",
+        "options": ["Abia", "Abuja", "Lagos", "None of these"],
+        "correctOptionIndex": "1"
+    },
+    {
+        "title": "Who is the current Minister for Education in Nigeria?",
+        "options": ["Babatunde Fashola", "Chris Ngige", "Lai Mohammed", "Adamu Adamu"],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "'OS' Abbreviation usually means?",
+        "options": ["Order of Significance", "Open Software", "Operating System", "None of these"],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "What is the capital city of Nigeria",
+        "options": ["Abia", "Abuja", "Lagos", "None of these"],
+        "correctOptionIndex": "1"
+    },
+    {
+        "title": "Growth does not overwhelm order and order does not deny growth. It can be informed from this statement that",
+        "options": ["a. The relationship between growth and order is foreign",
+             "b. Growth and order coexist in so far as one leads to the other", 
+             "c. It is probable for order to exist without growth and not vice versa",
+              "d. Growth and order are mutually exclusive."],
+        "correctOptionIndex": "1"
+    }
+]
